@@ -95,7 +95,7 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Your Name**
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- LinkedIn: [GEETANSH GOLA](https://linkedin.com/in/geetanshgola)
 - GitHub: [@yourusername](https://github.com/yourusername)
 
 ---
