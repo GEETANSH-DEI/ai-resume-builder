@@ -92,11 +92,6 @@ Contributions are welcome! Feel free to submit a Pull Request.
 
 This project is licensed under the MIT License.
 
-## 👨‍💻 Author
-
-**Your Name**
-- LinkedIn: [GEETANSH GOLA](https://www.linkedin.com/in/geetansh-gola-154650291)
-- GitHub: [@yourusername](https://github.com/yourusername)
 
 ---
 
